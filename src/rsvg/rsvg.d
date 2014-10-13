@@ -21,7 +21,7 @@
    Author: Raph Levien <raph@artofcode.com>
 */
 
-module rsvg;
+module rsvg.rsvg;
 import cairo.c.cairo;
 
 extern(C) {
