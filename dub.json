@@ -1,19 +1,18 @@
 {
 	"description": "rsvg bindings and wrappers for the D programming language.",
-	"targetName": "librsvg-d",
+	"targetName": "rsvg-d",
 	"authors": [
 		"Josh Netterfield"
 	],
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"homepage": "https://github.com/jnetterf/librsvg-d",
-	"name": "rsvgd",
+	"name": "librsvg-d",
 	"copyright": "Copyright © 2014, Josh Netterfield",
 	"license": "LGPL",
 	"configurations": [
 		{
 			"name": "static-lib",
-			"targetType": "staticLibrary",
-            "sourceFiles": ["rsvg.d"]
+			"targetType": "staticLibrary"
 		}
 	],
     "dependencies": {
