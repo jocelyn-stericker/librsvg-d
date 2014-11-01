@@ -1,6 +1,6 @@
 {
 	"targetName": "rsvg-d",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "rsvg bindings and wrappers for the D programming language.",
 	"authors": [
 		"Josh Netterfield"
